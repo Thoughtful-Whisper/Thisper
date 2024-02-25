@@ -70,13 +70,13 @@ We focused on solving the following three problems among the 17 sustainable deve
 
 <img width="110" alt="image" src="https://github.com/Antraxmin/Thisper-server/assets/77287236/58daa8e6-998b-4dbb-99bc-f6a968a1acb7">
 
-Goal 10 aims to reduce social, economic and political inequality. Our project Thisper visualizes video and media comments to raise awareness of issues of social inequality and awareness of bias.
+Goal 10 aims to reduce social, economic and political inequality.The 'Reduced Inequalities' goal relates to Thisper's focus on reducing biased information and malicious comments, thereby helping all users to share opinions and access information equally. Through this, Thisper aims to create a fair and equal communication environment that is not biased towards certain ideologies, reducing hate and discrimination.
 
 #### Goal 12 - Sustainable Cities and Communities
 
 <img width="110" alt="image" src="https://github.com/Antraxmin/Thisper-server/assets/77287236/d9262ead-fd80-45fc-ba45-d53832b89276">
 
-Goal 12 aims to promote sustainable consumption and production. Our project Thisper visualizes and analyzes comments from videos and media and provides an environment for users to discuss, allowing them to share opinions and perceptions from a more neutral perspective.
+Goal 12 aims to promote sustainable consumption and production. The 'Sustainable Cities and Communities' goal aligns with Thisper's commitment to contributing to the development of a safer and more inclusive digital community. This aims to create a digital community where all users respect and understand each other.
 
 #### Goal 5 - Gender Eguality
 
