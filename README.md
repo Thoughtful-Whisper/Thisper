@@ -54,6 +54,11 @@ If a user finds a comment that they enjoyed and agreed with a lot being colored 
 
 In this way, Thisper will approach our current society, which lacks understanding and respect for others and has severe conflicts, like a wise whisper, making great efforts to create a better internet world.
 
+<img width="1395" alt="image" src = "https://github.com/Thoughtful-Whisper/Thisper/assets/100592495/91cecceb-d472-43f9-9fc1-9f8cc55abf4b"/>
+
+<img width="1395" alt="image" src = "https://github.com/Thoughtful-Whisper/Thisper/assets/100592495/4f044e9b-20db-4bed-bdec-2a8ee074815f"/>
+
+
 ### Key Features
 
 Thisper analyzes YouTube comments and visualizes excessive biases and malicious comments in red as a warning to users. It also provides a chat window where users can discuss their thoughts and stories about the visualized comments.
