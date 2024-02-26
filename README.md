@@ -48,6 +48,12 @@ Through these approaches, we are confident that we can solve the
 problems of the internet environment, and to realize this, we have
 developed Thisper.
 
+Thisper analyzes YouTube comments and visualizes excessive biases and malicious comments in red as a warning to users. It also provides a chat window where users can discuss their thoughts and stories about the visualized comments.
+
+If a user finds a comment that they enjoyed and agreed with a lot being colored in red, it could be an opportunity to reflect on whether they have been thinking too one-sidedly. If they can have many conversations with GPT about this, they can naturally develop their ability to have logical and constructive discussions.
+
+In this way, Thisper will approach our current society, which lacks understanding and respect for others and has severe conflicts, like a wise whisper, making great efforts to create a better internet world.
+
 ### Key Features
 
 Thisper analyzes YouTube comments and visualizes excessive biases and malicious comments in red as a warning to users. It also provides a chat window where users can discuss their thoughts and stories about the visualized comments.
