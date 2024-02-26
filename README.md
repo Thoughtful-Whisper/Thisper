@@ -106,6 +106,19 @@ Goal 5 aims to achieve gender equality and aims to eliminate gender discriminati
 - Chat GPT API
 - Youtube Data API
 
+### API Statement
+
+#### Request Example
+
+<img width="1395" alt="image" src="https://github.com/Antraxmin/Thisper-server/assets/77287236/f5e87128-eb4c-48ea-9582-ca143b516729">
+<img width="1396" alt="image" src="https://github.com/Antraxmin/Thisper-server/assets/77287236/5cce5e9a-c154-4231-a249-29ca945ff547">
+
+#### Response Example
+
+<img width="1373" alt="image" src="https://github.com/Antraxmin/Thisper-server/assets/77287236/0f8faa4b-a8a6-446c-960e-c745684e0b10">
+
+<img width="1377" alt="image" src="https://github.com/Antraxmin/Thisper-server/assets/77287236/4c753632-6fa7-46a1-89b3-b6846886b6f0">
+
 ## Our Team Members
 
 <table>
