@@ -125,6 +125,33 @@ Goal 5 aims to achieve gender equality and aims to eliminate gender discriminati
 
 <img width="1377" alt="image" src="https://github.com/Antraxmin/Thisper-server/assets/77287236/4c753632-6fa7-46a1-89b3-b6846886b6f0">
 
+<br />
+<br/>
+
+## Getting Start
+
+The client program (Chrome extension) can be downloaded from the link below.
+
+[Chrome Web Store Download Link](https://chromewebstore.google.com/detail/thisper/gmphehbcobjkkofdhieadnffocpmlgjp?hl=ko&utm_source=ext_sidebar)
+
+![Alt text](image.png)
+
+The server program is run with the command below:
+
+<br />
+
+```
+nohup uvicorn main:app --reload --host=0.0.0.0 --port=8080 &
+```
+
+or
+
+```
+gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app -b 0.0.0.0:8080
+```
+
+<br />
+
 ## Our Team Members
 
 <table>
@@ -181,3 +208,5 @@ Goal 5 aims to achieve gender equality and aims to eliminate gender discriminati
      
   </tr>
 </table>
+
+<br />
